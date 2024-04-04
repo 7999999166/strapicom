@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "catogaries",
+  "info": {
+    "singularName": "catogary",
+    "pluralName": "catogaries",
+    "displayName": "Catogary"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}
