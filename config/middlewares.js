@@ -21,7 +21,7 @@ module.exports = [
     config: {
       enabled: true,
       headers: '*',
-      origin: ['http://localhost:5173','http://localhost:5173']
+      origin: ['http://localhost:5173','http://localhost:5173','https://strapicom-production.up.railway.app']
     }
   },
   'strapi::query',
